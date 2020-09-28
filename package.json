@@ -1,0 +1,14 @@
+{
+  "name": "jamespmernin-resume",
+  "version": "1.0.0",
+  "description": "Display my resume",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "James Mernin",
+  "license": "ISC",
+  "bin": {
+    "resume-me": "./index.js"
+  }
+}
